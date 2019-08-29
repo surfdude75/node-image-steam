@@ -47,7 +47,7 @@
     "lodash": "^3.10.1",
     "optimist": "0.6.1",
     "semaphore": "1.0.5",
-    "sharp": "0.16.0",
+    "sharp": "0.22.1",
     "xxhash": "0.3.0"
   },
   "devDependencies": {
